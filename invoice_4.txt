@@ -1,0 +1,5 @@
+OrderType: OUT
+Item: Cola
+Quantity: 1
+PricePerItem: 2.0
+TotalPrice: 2.0

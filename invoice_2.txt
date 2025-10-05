@@ -1,0 +1,5 @@
+OrderType: OUT
+Item: Falafel
+Quantity: 3
+PricePerItem: 1.5
+TotalPrice: 4.5

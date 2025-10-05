@@ -1,0 +1,5 @@
+OrderType: IN
+Item: Tea
+Quantity: 2
+PricePerItem: 0.5
+TotalPrice: 1.0
